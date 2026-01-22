@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ### Languages
 - JavaScript
+- HTML & CSS
 
 ### Frameworks & Libraries
 - Node.js
