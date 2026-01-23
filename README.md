@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Hi, I'm Syed Imranullah👋
 <!--
 **Syed-Imranullah/Syed-Imranullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Syed Imranullah👋
 
 ## 👨‍🏫 About Me
-- Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born in Bangladesh → Raised in New York → Currently in New York.
-- Outside of work I like to play soccer
-- Let's connect via email: syed.imranullah97@gmail.com
+I’m a **Software Engineering student** at The Marcy Lab School, passionate about learning modern web development and building interactive, user-friendly applications. I enjoy exploring new technologies, experimenting with code, and creating projects that challenge me to grow as a developer.  
+
+I’m detail-oriented, enjoy problem-solving, and am always looking for opportunities to apply what I’m learning in real projects. Outside of tech, I enjoy **soccer** and staying curious about how technology shapes the world.
+
+📫 **Connect with me:** syed.imranullah97@gmail.com 
 
 ## Tech Stack:
 
