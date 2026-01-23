@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
 - Born in Bangladesh → Raised in New York → Currently in New York.
 - Outside of work I like to play soccer
-- Let's connect via email: xayanmay@gmail.com
+- Let's connect via email: syed.imranullah97@gmail.com
 
 ## Tech Stack:
 
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
 ### Tools
 - Git
 - GitHub
+- Vs Code
+- Figma
