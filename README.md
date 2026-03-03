@@ -26,6 +26,7 @@ I’m detail-oriented, enjoy problem-solving, and am always looking for opportun
 ### Languages
 - JavaScript
 - HTML & CSS
+- Express
 
 ### Frameworks & Libraries
 - Node.js
