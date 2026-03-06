@@ -35,4 +35,5 @@ I’m detail-oriented, enjoy problem-solving, and am always looking for opportun
 - Git
 - GitHub
 - Vs Code
+- Vite
 - Figma
