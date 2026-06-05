@@ -1,39 +1,43 @@
-# Hi, I'm Syed Imranullah👋
-<!--
-**Syed-Imranullah/Syed-Imranullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Syed Imranullah 👋
 
-Here are some ideas to get you started:
+**Software Engineering Fellow @ The Marcy Lab School**
+New York, NY · [syed.imranullah97@gmail.com](mailto:syed.imranullah97@gmail.com) · [LinkedIn](https://www.linkedin.com/in/syed-imranullah-z97) · [Portfolio](https://syed-imranullah.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-## 👨‍🏫 About Me
-I’m a **Software Engineering student** at The Marcy Lab School, passionate about learning modern web development and building interactive, user-friendly applications. I enjoy exploring new technologies, experimenting with code, and creating projects that challenge me to grow as a developer.  
+## 👨‍💻 About Me
 
-I’m detail-oriented, enjoy problem-solving, and am always looking for opportunities to apply what I’m learning in real projects. Outside of tech, I enjoy **soccer** and staying curious about how technology shapes the world.
+I'm a Software Engineering Fellow at The Marcy Lab School, completing 2,000+ hours of intensive training in computer science fundamentals, full-stack web development, and software engineering best practices.
 
-📫 **Connect with me:** syed.imranullah97@gmail.com 
+I build full-stack applications using JavaScript, PostgreSQL, Express, React, and Node.js, with a focus on creating real-world products that integrate external APIs, automate backend workflows, and deliver intuitive user experiences.
 
-## Tech Stack:
+---
 
-### Languages
-- JavaScript
-- HTML & CSS
-- Express
+## 🛠️ Tech Stack
 
-### Frameworks & Libraries
-- Node.js
+**Languages:** JavaScript, SQL, HTML, CSS
 
-### Tools
-- Git
-- GitHub
-- Vs Code
-- Vite
-- Figma
+**Frameworks & Libraries:** React, Node.js, Express.js
+
+**Databases:** PostgreSQL
+
+**Tools:** Git, GitHub, VS Code, Vite
+
+---
+
+---
+
+## 🎓 Education
+
+**The Marcy Lab School — Software Engineering Fellowship**
+Brooklyn, NY · Sep 2025 – Sep 2026
+
+2,000+ hours of full-stack web development, computer science fundamentals, and leadership development.
+
+---
+
+## 📫 Let's Connect
+
+* 📧 [syed.imranullah97@gmail.com](mailto:syed.imranullah97@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/syed-imranullah-z97
+* 🌐 Portfolio: https://syed-imranullah.github.io/
