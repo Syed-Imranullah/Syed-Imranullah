@@ -17,7 +17,7 @@ I build full-stack applications using JavaScript, PostgreSQL, Express, React, an
 
 **Languages:** JavaScript, SQL, HTML, CSS
 
-**Frameworks & Libraries:** React, Node.js, Express.js
+**Frameworks & Libraries:** React, Node.js, Express.js, Python
 
 **Databases:** PostgreSQL
 
